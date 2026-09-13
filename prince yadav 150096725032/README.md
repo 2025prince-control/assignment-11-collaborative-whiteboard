@@ -2,6 +2,7 @@
 
 > **Student Name:** Prince Yadav  
 > **Roll No:** `150096725032`  
+> **Live Render Deployment:** [https://assignment-11-collaborative-whiteboard-eg38.onrender.com](https://assignment-11-collaborative-whiteboard-eg38.onrender.com/)  
 > **Repository:** [https://github.com/2025prince-control/assignment-11-collaborative-whiteboard](https://github.com/2025prince-control/assignment-11-collaborative-whiteboard)  
 > **Tech Stack:** Node.js, Express.js, Socket.io, HTML5 Canvas API, CORS, dotenv  
 
