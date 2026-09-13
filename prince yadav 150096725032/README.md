@@ -105,23 +105,19 @@ const boardRooms = {
 ## 📁 5. Directory Structure
 
 ```text
-assignment-11-collaborative-whiteboard/
-├── prince yadav 150096725032/
-│   ├── public/
-│   │   ├── index.html       # Full HTML5 Canvas collaborative interface
-│   │   ├── canvas.js        # Client-side drawing engine & socket event streamer
-│   │   └── styles.css       # Modern glassmorphism UI, cursors & responsive layouts
-│   ├── sockets/
-│   │   ├── boardHandler.js  # Room join, stroke buffer caching & state rollback handlers
-│   │   └── cursorHandler.js # Live cursor coordinate streaming
-│   ├── server.js            # Express & Socket.io server bootstrap
-│   ├── package.json         # NPM dependencies and scripts
-│   ├── .env.example         # Example environment variables
-│   ├── .gitignore           # Git ignored patterns
-│   ├── test-socket.js       # Automated end-to-end WebSocket test suite
-│   └── README.md            # Student copy of documentation
-├── package.json             # Root runner package.json
-├── .gitignore               # Root git ignore
+prince yadav 150096725032/
+├── public/
+│   ├── index.html           # Full HTML5 Canvas collaborative interface
+│   ├── canvas.js            # Client-side drawing engine & socket event streamer
+│   └── styles.css           # Modern glassmorphism UI, cursors & responsive layouts
+├── sockets/
+│   ├── boardHandler.js      # Room join, stroke buffer caching & state rollback handlers
+│   └── cursorHandler.js     # Live cursor coordinate streaming
+├── server.js                # Express & Socket.io server bootstrap
+├── package.json             # NPM dependencies and scripts
+├── .env.example             # Example environment variables
+├── .gitignore               # Git ignored patterns
+├── test-socket.js           # Automated end-to-end WebSocket test suite
 └── README.md                # Project documentation & grading submission
 ```
 
